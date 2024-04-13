@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TheunikFinancer
+- 👀 I’m interested in day-trading
+- 🌱 I’m currently learning python and options
+- 💞️ I’m looking to collaborate on quants
+- 📫 How to reach me joydavbanik@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I do trade exotic options
